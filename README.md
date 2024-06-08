@@ -1,82 +1,73 @@
 # chatbot1
 Shop information
 
-Baker:
-Mr. REN (Exquisite 3-star Michelin star bakery chef)
+Manager:
+Ms. Sara Lee 
 
 Time open:
-Everyday from 9am to 6pm (Except wednesday)
+Everyday from 10am to 5.30pm (Except Monday)
 
 Website Link:
-(https://ren-coffee-kijjl6g.gamma.site/)
+(https://mio-cat-hotel-kijjl6g.gamma.site/)
 
 Location:
-Street - Jalan Tinju 13/50, Seksyen 13, 40100 Shah Alam
+Street - Jalan Bunga 13/50, Seksyen 13, 40100 Shah Alam
 State/province/area - Selangor
 Zip code - 42600
 
 Phone Number:
-+60 10-444 5995
++60 16-666 1122
 
-Drink menu:
-Hot Chocolate (Available)
-Cappucino (Available)
-Mocha (Available)
-Americano (Available)
-Vanilla Latte (Available)
-Strawberry Smoothie (Unavailable)
-Blueberry Smoothie (Unavailable)
+Boarding Services:
+Private suites (Available)
+Personalized Care (Available)
+Enrichment Activities (Available)
+Gourmet Meals (Available)
 
-Sizes & Pricing:
-Round cake 6 inch diameter - 30RM (40RM with icing)
-Round cake 8 inch diameter - 50RM (62RM with icing)
-Round cake 10 inch diameter - 80RM (95RM with icing)
-Round cake 12 inch diameter - 115RM (132RM with icing)
-Round cake 14 inch diameter - 155RM (175RM with icing)
-Round cake 16 inch diameter - 200RM (220RM with icing)
-Square cake 6x6 inch size - 40RM (52RM with icing)
-Square cake 8x8 inch size - 70RM (88RM with icing)
-Square cake 10x10 inch size - 110RM (140RM with icing)
-Square cake 12x12 inch size - 155RM (195RM with icing)
-Rectangle cake 6x8 inch size - 50RM (65RM with icing)
-Rectangle cake 8x12 inch size - 100RM (125RM with icing)
-Rectangle cake 12x16 inch size - 200RM (240RM with icing)
-Height is 4 inch for all cakes
+Grooming Services:
+Professional Grooming Services (Available)
+Nail Trimming (Available)
+Spa Treatment (Available)
 
-Ordering process:
-Specify cake tier number (accept 1 to 3)
-For each cake, specify which cake and icing flavour
-If cake tier is more than 1, lower cake must have bigger size than upper ones
-Cake tier cannot have different shapes
+Amenities:
+24/7 Veterinary Care (Available)
+Spacious Outdoor Areas (Available)
+Webcam Monitoring (Available)
+VIP Suite Upgrades (Available)
 
-Ingredients:
-All-purpose flour, granulated sugar, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract. (Made from scratch, all locally sourced ingredients)
+Pricing:
+Standard suites - 40RM (per night)
+VIP suites - 80RM (per night)
+Personalized Care - come as a package deal with booking for a standard and VIP suites
+Enrichment Activities - come as a package deal with booking for a standard and VIP suites
+Gourmet Meals - come as a package deal with booking for a standard and VIP suites
+Professional Grooming Services -100RM to 250RM (depending on the situation)
+Nail Trimming - 20RM
+Spa Treatment - 100RM (50RM for VIP Suite Upgrades)
+24/7 Veterinary Care - come as a package deal with booking for a standard and VIP suites
+Spacious Outdoor Areas - come as a package deal with booking for a standard and VIP suites
+Webcam Monitoring - 20RM (come as a package deal for VIP Suite Upgrades)
+VIP Suite Upgrades - 30RM (from standard suite to VIP suite)
+
+Booking process:
+Specify Suite type (Standard or VIP)
+For each suite, specify any additional services
 
 Programs:
-No cake workshop or decoration classes
 No loyalty program (will soon be implemented)
 No refunds and returns
 
 Promotions:
-[Chocolate Spree] Chocolate cake 20% off (End at 29th March)
+[Raya Haji Promotions] Boarding 10% off (End at 20th June)
+[Raya Haji Promotions] Grooming 15% off (End at 20th June)
 
 Tax:
 10% Government tax
 
-Icing:
-Icing is applied around each cake (except bottom part)
-
 Others:
-No vegan/free gluten options
-Order can be made via phone/chatbot (or coming to place)
+No chronic sickness
+Booking can be made via phone/chatbot (or coming to place)
 Deposit is 80% of the total price
 Do not accept any form of cash
-Tasting appointment can just come to the place directly
-Doesn't accept order issues, if any issue on orders, tell them to contact customer service via phone number.
+If there is an issue with booking, tell them to contact customer service via phone number.
 
-Other products:
-Candle (2RM for each candle)
-Lighter for candle (3RM)
-Plastic plates (2RM per 12 plates)
-Plastic utensils (spoon & fork) 1RM per tool
-Plastic knife to cut cake (2.5RM)
